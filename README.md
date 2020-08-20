@@ -5,6 +5,13 @@
 
 *The main motive behind introducing this technology is increasing the sales and providing positive feedbacks and preventing people from crowd and saving lots of time.*
 
+This app demonstrates how to build an end-to-end user experience between customer and Mall.
+
+The goal of this app is to showcase an automatic billing machine. The following use cases are covered:
+* Barcode detection - An end to end barcode scanning solution on the various products.
+
+<img src="images/live_barcode.gif" width="256"/>
+
 ### Table of Contents
 
 - Requirements
